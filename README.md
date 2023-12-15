@@ -9,5 +9,5 @@ This team project involves developing a QR code reading program. To get started,
 https://stackoverflow.com/questions/63217735/import=pyzbar-pyzbar-unable-to-find-zbar-shared-library_
 - blog topic: Using 7bar, OpenCV to recognize QR codes
 https://doit-dev.tistory.com/11
-- QR code adress: Cachon University
+- QR code adress: Gachon University
 gachon.ac.kr
