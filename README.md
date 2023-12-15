@@ -5,9 +5,9 @@ This team project involves developing a QR code reading program. To get started,
 
 
 # Reference
--ImportError: Unable to find zbar shared library -> Error Resolution
+- ImportError: Unable to find zbar shared library -> Error Resolution
 https://stackoverflow.com/questions/63217735/import=pyzbar-pyzbar-unable-to-find-zbar-shared-library_
--blog topic: Using 7bar, OpenCV to recognize QR codes
+- blog topic: Using 7bar, OpenCV to recognize QR codes
 https://doit-dev.tistory.com/11
--QR code adress: Cachon University
+- QR code adress: Cachon University
 gachon.ac.kr
